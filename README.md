@@ -10,22 +10,22 @@ Full stack MERN contact manager with React hooks, context & JWT authentication.<
 
 <h4>Register Page:</h4>
 <br>
-<img src="https://github.com/jags43/contact_manager/blob/master/images/register.jpg"/>
+<img src="https://github.com/varunswing/contact_manager/blob/master/images/register.jpg"/>
 <br>
 
 <h4>Login Page:</h4>
 <br>
-<img src="https://github.com/jags43/contact_manager/blob/master/images/login.jpg"/>
+<img src="https://github.com/varunswing/contact_manager/blob/master/images/login.jpg"/>
 <br>
 
 <h4>Home Page:</h4>
 <br>
-<img src="https://github.com/jags43/contact_manager/blob/master/images/Home.jpg"/>
+<img src="https://github.com/varunswing/contact_manager/blob/master/images/Home.jpg"/>
 <br>
 
 <h4>Update Page:</h4>
 <br>
-<img src="https://github.com/jags43/contact_manager/blob/master/images/edit.jpg"/>
+<img src="https://github.com/varunswing/contact_manager/blob/master/images/edit.jpg"/>
 <br>
 
 ## Technologies Used:
